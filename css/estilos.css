@@ -1,0 +1,67 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+img{
+	max-width: 100%;
+}
+.quitarFloat{
+	float: none;
+}
+.espacioArriba{
+	margin-top: 40px;
+}
+.play{
+	font-family: 'Play', sans-serif;
+	
+}
+.grande{
+	font-size: 3em;
+}
+.verde{
+	color: #00887C;
+}
+a, .azul{
+	color: #009FFF;
+}
+.especioDerecha{
+	margin-right: 1em;
+}
+.noLista{
+	margin: 0px;
+	padding: 0px;
+}
+.noLista li{
+	list-style-type: none;
+}
+
+.seGris{
+	background-color: #eee;
+}
+
+.padding-largo{
+	padding: 5px 10px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.verteArriba{
+	vertical-align: top;
+}
+.mediano{
+	font-size: 1.5em;
+}
+
+.retraso1{
+	-webkit-animation-delay:1s;
+	-moz-animation-delay:1s;	
+	animation-delay:1s;
+}
+
+.retraso2{
+	-webkit-animation-delay:1s;
+	-moz-animation-delay:1s;	
+	animation-delay:1s;
+}
